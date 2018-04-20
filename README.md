@@ -3,12 +3,12 @@ Show a simple example of an analysis of the Titanic disaster in Python using a f
 
 # This Notebook will show basic examples of:
 Data Handling    
-*Importing Data with Pandas*    
-*Cleaning Data*    
-*Exploring Data through Visualizations with Matplotlib*    
+* Importing Data with Pandas*    
+* Cleaning Data*    
+* Exploring Data through Visualizations with Matplotlib*    
 
 Data Analysis    
-*Supervised Machine learning Techniques*    
-*Logit Regression Model*    
-*Plotting results*    
-Machine Learning tools implementation    
+* Supervised Machine learning Techniques*    
+* Logit Regression Model*    
+* Plotting results*    
+* Machine Learning tools implementation     
